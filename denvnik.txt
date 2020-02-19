@@ -1,0 +1,35 @@
+SASTANAK 1: 9.10.2019.
+Prisutni: Danijel Bošnjak, Bartul Brajković, Marija Jarnjak, Domagoj Jurenec, Marko Maglić, Filip Sosa
+Sažetak: Međusobno upoznavanje članova tima i početna analiza zadatka.
+
+SASTANAK 2: 23.10.2019.
+Prisutni: Danijel Bošnjak, Bartul Brajković, Marija Jarnjak, Domagoj Jurenec, Marko Maglić, Nebojša Mitrić, Filip Sosa
+Sažetak: Podjela izrade dokumentacije projekta među članovima .
+
+SASTANAK 3: 30.10.2019.
+Prisutni: Danijel Bošnjak, Bartul Brajković, Marija Jarnjak, Domagoj Jurenec, Marko Maglić, Nebojša Mitrić, Filip Sosa
+Sažetak: Podjela izrade implementacijskog dijela na backend i frontend.
+
+SASTANAK 4: 7.11.2019.
+Prisutni: Danijel Bošnjak, Bartul Brajković, Marija Jarnjak, Domagoj Jurenec, Marko Maglić, Nebojša Mitrić, Filip Sosa
+Sažetak: Pregled napravljenog te diskusija o mogućim poboljšanjima.
+
+SASTANAK 5: 3.12.2019.
+Prisutni: Danijel Bošnjak, Bartul Brajković, Marija Jarnjak, Domagoj Jurenec, Marko Maglić, Nebojša Mitrić, Filip Sosa
+Sažetak: Priprema za kolokviranje prvog ciklusa.
+
+SASTANAK 6: 11.12.2019.
+Prisutni: Danijel Bošnjak, Bartul Brajković, Marija Jarnjak, Domagoj Jurenec, Marko Maglić, Nebojša Mitrić, Filip Sosa
+Sažetak: Podjela izrade implementacijskog dijela na backend i frontend.
+
+SASTANAK 7: 18.12.2019.
+Prisutni: Domagoj Jurenec, Filip Sosa
+Sažetak: Pregled napravljenog te diskusija o mogućim poboljšanjima.
+
+SASTANAK 8: 8.1.2020.
+Prisutni: Bartul Brajković, Marija Jarnjak, Domagoj Jurenec, Marko Maglić, Filip Sosa
+Sažetak: Podjela izrade dokumentacije projekta medu članovima.
+
+SASTANAK 9: 20.1.2020.
+Prisutni: Danijel Bošnjak, Bartul Brajković, Marija Jarnjak, Domagoj Jurenec, Marko Maglić, Nebojša Mitrić, Filip Sosa
+Sažetak: Priprema za kolokviranje drugog ciklusa.

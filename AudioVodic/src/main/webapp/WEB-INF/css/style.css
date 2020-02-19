@@ -1,0 +1,93 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	background-color: #fff;
+	color: #555;
+	font-weight: 300;
+	font-size: 20px;
+	text-rendering: optimizeLegibility;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+h1 {
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-size: 180%;
+	word-spacing: 2px;
+	text-align: left;
+	letter-spacing: 1px;
+}
+
+h1:after {
+	content: "";
+	display: block;
+	width: 20%;
+	padding-top: 5px;
+	border-bottom: 1px solid #aaaaaa;
+}
+
+p {
+	margin-right: 15px;
+	margin-bottom: 5px;
+	word-spacing: 2px;
+	letter-spacing: 1px;
+	line-height: 145%;
+
+img {
+	margin-bottom: 25px;
+	margin-top: 20px;
+}
+
+a {
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+}
+
+<<<<<<< HEAD
+.natrag-pocetna {
+	float: right;
+	list-style: none;
+	margin-top: 20px;
+	font-size: 80%;
+}
+
+.audiozapis-gumb {
+	display: inline-block;
+	padding: 15px 30px;
+=======
+.natrag-pocetna{
+    float: right;
+    list-style: none;
+    margin-top: 20px;
+    font-size: 80%;
+}
+
+.audiozapis-gumb{
+	display:inline-block;
+    padding: 15px 30px;
+}
+
+h2{
+	font-weight: 300;
+    font-size: 180%;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+>>>>>>> 53bc7d3f5e41df9141a06e2f0080cb38bc3b42fa
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 180%;
+	word-spacing: 2px;
+	letter-spacing: 1px;
+}
+
+.formLabel{
+	position: absolute;
+	left: 20px;
+}
